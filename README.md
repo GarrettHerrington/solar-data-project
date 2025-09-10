@@ -9,3 +9,4 @@ I tried to get my powerBI in a format that I could upload on github but it wante
 It seems like it would be simple enough to add my azure stuff to the github, there's a configure repository button in ADF, but after I add my github name, it just doesn't display any repositories.
 I have no idea how to explain this, will probably do some more googling on it later.
 
+Update: It is because I have to create a collaboration branch in order for ADF to recognize it.  The joys of version control.
