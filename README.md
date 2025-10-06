@@ -10,3 +10,6 @@ It seems like it would be simple enough to add my azure stuff to the github, the
 I have no idea how to explain this, will probably do some more googling on it later.
 
 Update: It is because I have to create a collaboration branch in order for ADF to recognize it.  The joys of version control.
+
+
+Update 10/6/2025:  I'm going to turn this project on it's head and expand it, it's got a lot of potential, starting with building an SQL database in Postgres that will hold my solar data and then I will add weather data to see how weather affects power generation
